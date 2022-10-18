@@ -65,6 +65,9 @@
     
     - `hotfix-...` 형식을 추천한다. ex) hotfix-1.2.1
     
+    📄 Reference 
+    
+    https://velog.io/@kw2577/Git-branch-%EC%A0%84%EB%9E%B5
    
     </div>
 </details>
