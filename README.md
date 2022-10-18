@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 <details>
-<summary>221017 About Branch & Naming (GIT)</summary>
+<summary>221017 About GIT Branch & Naming (GIT)</summary>
 <div markdown="1">
 <hr/>
 
