@@ -4,7 +4,7 @@
 <div markdown="1">
 <hr/>
 
-**Acheivement** : 항해99 WEEK5 SPRING 심화과정 팀 프로젝트END👏
+**Acheivement** : SPRING 심화과정 팀 프로젝트END👏
 
 숙련과정 프로젝트를 다시 한번 복기하는 중이다. 그리고, 백준 기초 알고리즘 문제 7문제 COMPLETED. 시간이 되면 매일 꾸준히 GOGO
   
@@ -47,7 +47,7 @@ public class RequiredArgsConstructorDIServiceExample {
 <div markdown="1">
 <hr/>
 
-**Acheivement** : 항해99 WEEK5 SPRING 팀 프로젝트ING🤝 거의 대부분의 기능 구현 완료!
+**Acheivement** : PRING 팀 프로젝트ING🤝 거의 대부분의 기능 구현 완료!
 
 GIT **Merge**과정에서 **Conflict** 해결을 해보았다. 백준 아이디 생성 및 기초 알고리즘 문제 10문제 COMPLETED.
   
@@ -84,7 +84,7 @@ WHY❓ : 관계형 데이터베이스는 정규화된 테이블 2개로 다대�
 <div markdown="1">
 <hr/>
 
-**Acheivement** : 항해99 WEEK5 SPRING 팀 프로젝트ING🤝
+**Acheivement** : SPRING 팀 프로젝트ING🤝
 
 팀원 각자의 GIT Branch에서 작업하고 Merge하는 과정을 실제로 해보았다. 
 
