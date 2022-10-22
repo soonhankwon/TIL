@@ -24,8 +24,14 @@ AM6:30 어김없는 댕댕이 순규의 모닝콜🗣로 인해 강제기상해�
 웹 클라이언트가 요청을 보낼 때, HTTP 프로토콜의 **바디** 부분에 **데이터를 여러 부분**으로 나워서 보내는 것
 
 웹 클라이언트가 서버에게 파일을 업로드 할 때, http프로토콜의 바디 부분에 파일 정보를 담아서 전송을 하는데, 파일을 한번에 여러개 전송을 하면 Body 부분에 파일이 여러개의 부분으로 연결되어 전송되는 것이 Multipart data라고 한다.
+	
+왜 멀티라는 단어를 굳이 쓸까라는 생각이 의문이 들었는데 하나 이상의 데이터 세트가 단일 본문에 결합되있으며
+	
+여러유형의 데이터(바이너리, 텍스트)가 포함되어 멀티파트 사용이라고 한다. 
+	
+As the official specification says, "one or more different sets of data are combined in a single body". So when photos and music are handled as multipart messages as mentioned in the question, probably there is some plain text metadata associated as well, thus making the request containing different types of data (binary, text), which implies the usage of multipart.
 
-보통 파일을 전송할 때 사용
+Usage : 보통 파일을 전송할 때 사용
 
 **MultipartFile 이란?**
 
@@ -53,6 +59,8 @@ void transfer To(File dest) throws IOException
 📄 Reference
 
 https://antstudy.tistory.com/308
+	
+https://stackoverflow.com/questions/16958448/what-is-http-multipart-request
 
 </div>
 </details>
