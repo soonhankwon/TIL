@@ -31,7 +31,7 @@ Gradle에 들어가서 Clean -> Build를 해주면 깔끔하게 청소된다. �
 
 하지만, Multipartfile은 미디어타입이 달라 @RequestBody로 데이터를 전달 받을 수가 없다.
 
-**@RequestPart**를 사용하면 Json & MultipartFile 미디어 타입(파일)을 둘 다 받을수 있다.
+**@RequestPart**를 사용하면 Json & MultipartFile 미디어 타입(파일)을 둘 다 받을 수 있다.
 
 이때 API에서 **consume**할 **MediaType**을 아래의 코드와 같이 지정해줘야 한다. 만약 적절한 MediaType를 지정하지
 
