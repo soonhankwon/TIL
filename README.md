@@ -4,7 +4,7 @@
 <div markdown="1">
 <hr/>
 
-**Mention** : Winter is coming🥶 아침에 춥....춥다! 시간날 때, 깃블로그로 전환하고 싶은 소망
+**Mention** : Winter is coming🥶 아침에 춥....춥다! 시간날 때, 깃블로그로 전환해야겠다💡
 
 **Acheivement & Problem** : 어제 구현했던 AWS S3를 이용한 이미지 업로드기능을 실제 프로젝트에 적용 & 구현해보았다.
 
