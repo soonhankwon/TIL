@@ -1,4 +1,4 @@
-#TIL moved to https://soonhankwon.github.io/
+TIL moved to https://soonhankwon.github.io/
 
 just for log & contribution
 
