@@ -8,6 +8,6 @@ just for log & contribution
 
 221102 https://soonhankwon.github.io/algorithm/algorithm10818/
 
-https://soonhankwon.github.io/til/aboutjpaandrelationship/
+221102 https://soonhankwon.github.io/til/aboutjpaandrelationship/
 
 221027 https://soonhankwon.github.io/algorithm/algorithm10952/
