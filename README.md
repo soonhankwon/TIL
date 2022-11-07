@@ -2,6 +2,8 @@ TIL moved to https://soonhankwon.github.io/
 
 just for log & contribution
 
+221107 https://soonhankwon.github.io/til/aboutdatabasebasic/
+
 221103 https://soonhankwon.github.io/algorithm/algorithm5597/
 
 221103 https://soonhankwon.github.io/algorithm/algorithm2563/
