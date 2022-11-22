@@ -2,6 +2,8 @@ TIL moved to https://soonhankwon.github.io/
 
 just for log & contribution
 
+221122 https://soonhankwon.github.io/til/about-fetchtype/
+
 221121 https://soonhankwon.github.io/algorithm/algorithm11654/
 
 221120 https://soonhankwon.github.io/algorithm/algorithm1065/
