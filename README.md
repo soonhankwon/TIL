@@ -1,5 +1,7 @@
-# TIL LOG
-
+# Today I Learned
+- 학습 및 개인적인 생각을 정리하기 위해 작성 
+- 보완할 내용들은 추가적으로 학습 후 수정 및 보완
+- 순서는 알파벳순
 ---
 DEV Challenge Quest
 
