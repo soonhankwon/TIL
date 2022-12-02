@@ -1,6 +1,11 @@
 TIL moved to https://soonhankwon.github.io/
 
-just for log & contribution
+## TIL LOG
+
+---
+DEV Challenge Quest
+
+221202 https://soonhankwon.github.io/til/devChallengeQuest/
 
 221128 https://soonhankwon.github.io/til/whiteship-livestudy-w1/
 
