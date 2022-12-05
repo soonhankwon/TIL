@@ -29,7 +29,7 @@ DEV Challenge Quest
 ## Database
 - [Database 기본개념](https://soonhankwon.github.io/til/aboutdatabasebasic/)
 - [엔티티 연관관계에 대한 작은 메모](https://soonhankwon.github.io/til/aboutjpaandrelationship/)
-- [SpringBoot(gradle) + MySQL + JPA 연동하기](https://soonhankwon.github.io/til/connect-mysql-spring)
+- [SpringBoot(gradle) + MySQL🐬 + JPA 연동하기](https://soonhankwon.github.io/til/connect-mysql-spring)
 
 ## Java
 - [다중 자료형 리스트의 특정 인덱스요소 일괄 수정](https://soonhankwon.github.io/til/aboutlistandset/)
