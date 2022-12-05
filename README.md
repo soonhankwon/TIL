@@ -8,6 +8,7 @@ DEV Challenge Quest
 - https://soonhankwon.github.io/til/devChallengeQuest/
 
 ## Algorithm
+- [백준 JAVA11 11720번 : 숫자의 합](https://soonhankwon.github.io/algorithm/algorithm11720/)
 - [백준 JAVA11 11654번 : 아스키코드](https://soonhankwon.github.io/algorithm/algorithm11654/)
 - [백준 JAVA11 1065번 : 한수](https://soonhankwon.github.io/algorithm/algorithm1065/)
 - [백준 JAVA11 4673번 : 셀프넘버](https://soonhankwon.github.io/algorithm/algorithm4673/)
