@@ -55,6 +55,7 @@ DEV Challenge Quest
 
 ## Jpa
 - [JPA(Java Persistence API)](https://soonhankwon.github.io/til/jpa)
+- [더티체킹(Dirty Checking)이란?](https://soonhankwon.github.io/til/dirtychecking)
 
 ## Project
 - [TMS(Transportation Management System) FLOW](https://soonhankwon.github.io/til/about-tms-flow/)
