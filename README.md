@@ -40,6 +40,9 @@ DEV Challenge Quest
 - [시간복잡도와 공간복잡도](https://soonhankwon.github.io/til/complexity)
 - [스택(Stack) 그리고 큐(Queue)](https://soonhankwon.github.io/til/stack-queue)
 
+## Design Pattern
+- [MVC Pattern](https://soonhankwon.github.io/til/mvc-pattern)
+
 ## Java
 - [다중 자료형 리스트의 특정 인덱스요소 일괄 수정](https://soonhankwon.github.io/til/aboutlistandset/)
 - [JAVA, MAP](https://soonhankwon.github.io/til/hashmap)
