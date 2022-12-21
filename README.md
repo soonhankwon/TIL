@@ -22,7 +22,7 @@ DEV Challenge Quest
 - [백준 JAVA11 2563번 : 최댓값](https://soonhankwon.github.io/algorithm/algorithm2563/)
 - [백준 JAVA11 10818번 : 최소,최대](https://soonhankwon.github.io/algorithm/algorithm10818/)
 - [백준 JAVA11 10952번 : A+B](https://soonhankwon.github.io/algorithm/algorithm10952/)
-
+- [이진탐색(Binary Search)](https://soonhankwon.github.io/til/binarySearch)
 
 ## Ci/Cd
 - [Ci/Cd 기본개념](https://soonhankwon.github.io/til/aboutcicd-githubaction/)
@@ -40,6 +40,7 @@ DEV Challenge Quest
 - [자료구조, ArrayList vs LinkedList](https://soonhankwon.github.io/til/array-vs-linkedlist)
 - [시간복잡도와 공간복잡도](https://soonhankwon.github.io/til/complexity)
 - [스택(Stack) 그리고 큐(Queue)](https://soonhankwon.github.io/til/stack-queue)
+- [이진탐색(Binary Search)](https://soonhankwon.github.io/til/binarySearch)
 
 ## Design Pattern
 - [MVC Pattern](https://soonhankwon.github.io/til/mvc-pattern)
