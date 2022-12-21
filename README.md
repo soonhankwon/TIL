@@ -35,6 +35,7 @@ DEV Challenge Quest
 - [엔티티 연관관계에 대한 작은 메모](https://soonhankwon.github.io/til/aboutjpaandrelationship/)
 - [SpringBoot(gradle) + MySQL🐬 + JPA 연동하기](https://soonhankwon.github.io/til/connect-mysql-spring)
 - [Index(인덱스)](https://soonhankwon.github.io/til/index)
+- [모든 요소에 인덱스를 걸지 않는 이유](https://soonhankwon.github.io/til/index-issue)
 
 ## Data Structure
 - [자료구조, ArrayList vs LinkedList](https://soonhankwon.github.io/til/array-vs-linkedlist)
