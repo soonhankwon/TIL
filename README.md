@@ -38,6 +38,7 @@ DEV Challenge Quest
 - [모든 요소에 인덱스를 걸지 않는 이유](https://soonhankwon.github.io/til/index-issue)
 - [Composite Index(결합 인덱스)](https://soonhankwon.github.io/til/compositeIndex)
 - [Transaction(트랜잭션) and 동시성 제어](https://soonhankwon.github.io/til/transaction)
+- [정규화(normalization),1NF,2NF,3NF,BCNF](https://soonhankwon.github.io/til/normalization)
 
 ## Data Structure
 - [자료구조, ArrayList vs LinkedList](https://soonhankwon.github.io/til/array-vs-linkedlist)
