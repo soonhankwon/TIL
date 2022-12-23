@@ -76,3 +76,4 @@ DEV Challenge Quest
 
 ## Web
 - [CORS(Cross-Origin Resource Sharing)](https://soonhankwon.github.io/til/cors/)
+- [HTTP에 비해 HTTPS가 안전한 이유](https://soonhankwon.github.io/til/http-vs-https)
