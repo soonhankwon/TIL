@@ -62,7 +62,7 @@ DEV Challenge Quest
 - [2주차 자바 데이터 타입, 변수 그리고 배열](https://soonhankwon.github.io/til/whiteship-livestudy-w2/)
 
 ## Network
-- [Protocol & OSI 7 Layers](https://soonhankwon.github.io/til/protocol-osi7layer)
+- [Protocol & OSI 7 Layer](https://soonhankwon.github.io/til/protocol-osi7layer)
 
 ## Jpa
 - [JPA(Java Persistence API)](https://soonhankwon.github.io/til/jpa)
