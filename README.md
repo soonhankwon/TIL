@@ -41,6 +41,7 @@ DEV Challenge Quest
 - [정규화(normalization),1NF,2NF,3NF,BCNF](https://soonhankwon.github.io/til/normalization)
 
 ## Data Structure
+- [배열(Array)과 리스트(List)](https://soonhankwon.github.io/til/array-vs-list)
 - [자료구조, ArrayList vs LinkedList](https://soonhankwon.github.io/til/array-vs-linkedlist)
 - [시간복잡도와 공간복잡도](https://soonhankwon.github.io/til/complexity)
 - [스택(Stack) 그리고 큐(Queue)](https://soonhankwon.github.io/til/stack-queue)
