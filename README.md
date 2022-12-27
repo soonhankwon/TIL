@@ -23,6 +23,7 @@ DEV Challenge Quest
 - [백준 JAVA11 10818번 : 최소,최대](https://soonhankwon.github.io/algorithm/algorithm10818/)
 - [백준 JAVA11 10952번 : A+B](https://soonhankwon.github.io/algorithm/algorithm10952/)
 - [이진탐색(Binary Search)](https://soonhankwon.github.io/til/binarySearch)
+- [구간 합(Prefix Sum)](https://soonhankwon.github.io/til/prefixSum)
 
 ## Ci/Cd
 - [Ci/Cd 기본개념](https://soonhankwon.github.io/til/aboutcicd-githubaction/)
