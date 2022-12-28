@@ -8,6 +8,7 @@ DEV Challenge Quest
 - https://soonhankwon.github.io/til/devChallengeQuest/
 
 ## Algorithm
+- [백준 JAVA11 1874번 : 스택 수열](https://soonhankwon.github.io/til/algorithm1874)
 - [백준 JAVA11 11660번 : 구간 합 구하기 5](https://soonhankwon.github.io/til/algorithm11660)
 - [백준 JAVA11 11659번 : 구간 합 구하기 4](https://soonhankwon.github.io/til/algorithm11659)
 - [백준 JAVA11 10809번 : 알파벳 찾기](https://soonhankwon.github.io/algorithm/algorithm10809/)
