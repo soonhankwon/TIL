@@ -26,6 +26,7 @@ DEV Challenge Quest
 - [백준 JAVA11 10952번 : A+B](https://soonhankwon.github.io/algorithm/algorithm10952/)
 - [이진탐색(Binary Search)](https://soonhankwon.github.io/til/binarySearch)
 - [구간 합(Prefix Sum)](https://soonhankwon.github.io/til/prefixSum)
+- [버블정렬(Bubble sort)와 선택정렬(Selection sort)](https://soonhankwon.github.io/til/sort1)
 
 ## Ci/Cd
 - [Ci/Cd 기본개념](https://soonhankwon.github.io/til/aboutcicd-githubaction/)
