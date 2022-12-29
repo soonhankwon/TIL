@@ -8,6 +8,7 @@ DEV Challenge Quest
 - https://soonhankwon.github.io/til/devChallengeQuest/
 
 ## Algorithm
+- [백준 JAVA11 1427번 : 소트인사이드](https://soonhankwon.github.io/til/algorithm1427)
 - [백준 JAVA11 2750번 : 수 정렬하기](https://soonhankwon.github.io/til/algorithm2750)
 - [백준 JAVA11 1874번 : 스택 수열](https://soonhankwon.github.io/til/algorithm1874)
 - [백준 JAVA11 12891번 : DNA 비밀번호](https://soonhankwon.github.io/til/algorithm12891)
