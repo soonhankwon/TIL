@@ -33,6 +33,9 @@ DEV Challenge Quest
 ## Ci/Cd
 - [Ci/Cd 기본개념](https://soonhankwon.github.io/til/aboutcicd-githubaction/)
 
+## Computer Science
+- [Base64 Encoding](https://soonhankwon.github.io/til/base64)
+
 ## Cryptography
 - [사용자 패스워드를 전송하고 보관하는 방법](https://soonhankwon.github.io/til/password)
 
