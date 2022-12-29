@@ -9,6 +9,7 @@ DEV Challenge Quest
 
 ## Algorithm
 - [백준 JAVA11 1874번 : 스택 수열](https://soonhankwon.github.io/til/algorithm1874)
+- [백준 JAVA11 12891번 : DNA 비밀번호](https://soonhankwon.github.io/til/algorithm12891)
 - [백준 JAVA11 2018번 : 수들의 합 5](https://soonhankwon.github.io/til/algorithm2018)
 - [백준 JAVA11 11660번 : 구간 합 구하기 5](https://soonhankwon.github.io/til/algorithm11660)
 - [백준 JAVA11 11659번 : 구간 합 구하기 4](https://soonhankwon.github.io/til/algorithm11659)
