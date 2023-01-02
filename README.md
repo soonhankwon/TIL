@@ -8,6 +8,7 @@ DEV Challenge Quest
 - https://soonhankwon.github.io/til/devChallengeQuest/
 
 ## Algorithm
+- [백준 JAVA11 11724번 : 연결 요소의 개수](https://soonhankwon.github.io/til/algorithm11724)
 - [백준 JAVA11 10989번 : 수 정렬하기 3](https://soonhankwon.github.io/til/algorithm10989)
 - [백준 JAVA11 2751번 : 수 정렬하기2](https://soonhankwon.github.io/til/algorithm2751)
 - [백준 JAVA11 11399번 : ATM](https://soonhankwon.github.io/til/algorithm11399)
