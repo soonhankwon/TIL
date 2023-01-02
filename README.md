@@ -8,6 +8,7 @@ DEV Challenge Quest
 - https://soonhankwon.github.io/til/devChallengeQuest/
 
 ## Algorithm
+- [백준 JAVA11 2751번 : 수 정렬하기2](https://soonhankwon.github.io/til/algorithm2751)
 - [백준 JAVA11 11399번 : ATM](https://soonhankwon.github.io/til/algorithm11399)
 - [백준 JAVA11 1427번 : 소트인사이드](https://soonhankwon.github.io/til/algorithm1427)
 - [백준 JAVA11 2750번 : 수 정렬하기](https://soonhankwon.github.io/til/algorithm2750)
