@@ -40,6 +40,7 @@ DEV Challenge Quest
 ## Computer Science
 - [Base64 Encoding](https://soonhankwon.github.io/til/base64)
 - [프로세스(Process)와 스레드(Thread)](https://soonhankwon.github.io/til/thread-process)
+- [Synchronous(동기) vs Asynchronous(비동기)](https://soonhankwon.github.io/til/sync-vs-async)
 
 ## Cryptography
 - [사용자 패스워드를 전송하고 보관하는 방법](https://soonhankwon.github.io/til/password)
