@@ -8,6 +8,7 @@ DEV Challenge Quest
 - https://soonhankwon.github.io/til/devChallengeQuest/
 
 ## Algorithm
+- [백준 JAVA11 1541번 : 잃어버린 괄호](https://soonhankwon.github.io/til/algorithm1541)
 - [백준 JAVA11 11047번 : 동전 0](https://soonhankwon.github.io/til/algorithm11047)
 - [백준 JAVA11 2343번 : 기타 레슨](https://soonhankwon.github.io/til/algorithm2343)
 - [백준 JAVA11 1920번 : 수 찾기](https://soonhankwon.github.io/til/algorithm1920)
