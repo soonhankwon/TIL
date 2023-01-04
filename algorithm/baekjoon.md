@@ -30,3 +30,7 @@
 - [백준 JAVA11 2563번 : 최댓값](https://soonhankwon.github.io/algorithm/algorithm2563/)
 - [백준 JAVA11 10818번 : 최소,최대](https://soonhankwon.github.io/algorithm/algorithm10818/)
 - [백준 JAVA11 10952번 : A+B](https://soonhankwon.github.io/algorithm/algorithm10952/)
+
+## 정수론
+---
+### 소수 구하기
