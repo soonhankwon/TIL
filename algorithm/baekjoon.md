@@ -35,3 +35,6 @@
 ---
 ### 소수 구하기
 - [백준 JAVA11 1929번 : 소수 구하기](https://soonhankwon.github.io/til/algorithm1929)
+
+### 유클리드 호제법
+- [백준 JAVA11 1934번 : 최소공배수](https://soonhankwon.github.io/til/algorithm1934)
