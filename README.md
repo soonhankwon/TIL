@@ -49,6 +49,7 @@ DEV Challenge Quest
 - [Base64 Encoding](https://soonhankwon.github.io/til/base64)
 - [프로세스(Process)와 스레드(Thread)](https://soonhankwon.github.io/til/thread-process)
 - [Synchronous(동기) vs Asynchronous(비동기)](https://soonhankwon.github.io/til/sync-vs-async)
+- [동시성(Concurrency) vs 병렬성(Parallelism)](https://soonhankwon.github.io/til/concurrent-parallel)
 
 ## Cryptography
 - [사용자 패스워드를 전송하고 보관하는 방법](https://soonhankwon.github.io/til/password)
@@ -89,7 +90,6 @@ DEV Challenge Quest
 - [Protocol & OSI 7 Layer](https://soonhankwon.github.io/til/protocol-osi7layer)
 - [TCP 3 Way-Handshake & 4 Way-handshake](https://soonhankwon.github.io/til/3wayhandshake)
 - [TCP(Transmission Control Protocol) vs UDP(User Datagram Protocol)](https://soonhankwon.github.io/til/tcp-vs-udp)
-- [동시성(Concurrency) vs 병렬성(Parallelism)](https://soonhankwon.github.io/til/concurrent-parallel)
 
 ## Jpa
 - [JPA(Java Persistence API)](https://soonhankwon.github.io/til/jpa)
