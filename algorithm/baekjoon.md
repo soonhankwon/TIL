@@ -34,3 +34,4 @@
 ## 정수론
 ---
 ### 소수 구하기
+- [백준 JAVA11 1929번 : 소수 구하기](https://soonhankwon.github.io/til/algorithm1929)
