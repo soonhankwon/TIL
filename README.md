@@ -8,7 +8,7 @@ DEV Challenge Quest
 - https://soonhankwon.github.io/til/devChallengeQuest/
 
 ## Algorithm
-- [백준(baekjoon) 알고리즘 문제 풀이](https://github.com/soonhankwon/TIL/tree/main/baekjoon.md)
+- [백준(baekjoon) 알고리즘 문제 풀이](https://github.com/soonhankwon/TIL/blob/main/algorithm/baekjoon.md)
 - [이진탐색(Binary Search)](https://soonhankwon.github.io/til/binarySearch)
 - [구간 합(Prefix Sum)](https://soonhankwon.github.io/til/prefixSum)
 - [버블정렬(Bubble sort)와 선택정렬(Selection sort)](https://soonhankwon.github.io/til/sort1)
