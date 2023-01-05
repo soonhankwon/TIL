@@ -34,6 +34,7 @@ DEV Challenge Quest
 - [Composite Index(결합 인덱스)](https://soonhankwon.github.io/til/compositeIndex)
 - [Transaction(트랜잭션) and 동시성 제어](https://soonhankwon.github.io/til/transaction)
 - [정규화(normalization),1NF,2NF,3NF,BCNF](https://soonhankwon.github.io/til/normalization)
+- [데이터베이스 식별관계와 비식별관계](https://soonhankwon.github.io/til/discrimination)
 
 ## Data Structure
 - [배열(Array)과 리스트(List)](https://soonhankwon.github.io/til/array-vs-list)
