@@ -38,3 +38,4 @@
 
 ### 유클리드 호제법
 - [백준 JAVA11 1934번 : 최소공배수](https://soonhankwon.github.io/til/algorithm1934)
+- [백준 JAVA11 1850번 : 최대공약수](https://soonhankwon.github.io/til/algorithm1850)
