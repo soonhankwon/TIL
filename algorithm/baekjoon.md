@@ -6,11 +6,6 @@
 - [백준 JAVA11 1920번 : 수 찾기](https://soonhankwon.github.io/til/algorithm1920)
 - [백준 JAVA11 1260번 : DFS와 BFS 프로그램](https://soonhankwon.github.io/til/algorithm1260)
 - [백준 JAVA11 11724번 : 연결 요소의 개수](https://soonhankwon.github.io/til/algorithm11724)
-- [백준 JAVA11 10989번 : 수 정렬하기 3](https://soonhankwon.github.io/til/algorithm10989)
-- [백준 JAVA11 2751번 : 수 정렬하기2](https://soonhankwon.github.io/til/algorithm2751)
-- [백준 JAVA11 11399번 : ATM](https://soonhankwon.github.io/til/algorithm11399)
-- [백준 JAVA11 1427번 : 소트인사이드](https://soonhankwon.github.io/til/algorithm1427)
-- [백준 JAVA11 2750번 : 수 정렬하기](https://soonhankwon.github.io/til/algorithm2750)
 - [백준 JAVA11 1874번 : 스택 수열](https://soonhankwon.github.io/til/algorithm1874)
 - [백준 JAVA11 12891번 : DNA 비밀번호](https://soonhankwon.github.io/til/algorithm12891)
 - [백준 JAVA11 2018번 : 수들의 합 5](https://soonhankwon.github.io/til/algorithm2018)
@@ -30,12 +25,19 @@
 - [백준 JAVA11 2563번 : 최댓값](https://soonhankwon.github.io/algorithm/algorithm2563/)
 - [백준 JAVA11 10818번 : 최소,최대](https://soonhankwon.github.io/algorithm/algorithm10818/)
 - [백준 JAVA11 10952번 : A+B](https://soonhankwon.github.io/algorithm/algorithm10952/)
-
+## 정렬
+---
+- [백준 JAVA11 10989번 : 수 정렬하기 3](https://soonhankwon.github.io/til/algorithm10989)
+- [백준 JAVA11 2751번 : 수 정렬하기2](https://soonhankwon.github.io/til/algorithm2751)
+- [백준 JAVA11 11399번 : ATM](https://soonhankwon.github.io/til/algorithm11399)
+- [백준 JAVA11 1427번 : 소트인사이드](https://soonhankwon.github.io/til/algorithm1427)
+- [백준 JAVA11 2750번 : 수 정렬하기](https://soonhankwon.github.io/til/algorithm2750)
 ## 정수론
 ---
 ### 소수 구하기
 - [백준 JAVA11 1929번 : 소수 구하기](https://soonhankwon.github.io/til/algorithm1929)
 
 ### 유클리드 호제법
+- [백준 JAVA11 1033번 : 칵테일](https://soonhankwon.github.io/til/algorithm1033)
 - [백준 JAVA11 1934번 : 최소공배수](https://soonhankwon.github.io/til/algorithm1934)
 - [백준 JAVA11 1850번 : 최대공약수](https://soonhankwon.github.io/til/algorithm1850)
