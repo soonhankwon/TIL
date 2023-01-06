@@ -37,6 +37,9 @@
 ### 소수 구하기
 - [백준 JAVA11 1929번 : 소수 구하기](https://soonhankwon.github.io/til/algorithm1929)
 
+### 팰린드롬
+- [백준 JAVA11 1747번 : 소수&팰린드롬](https://soonhankwon.github.io/til/algorithm1747)
+
 ### 유클리드 호제법
 - [백준 JAVA11 1033번 : 칵테일](https://soonhankwon.github.io/til/algorithm1033)
 - [백준 JAVA11 1934번 : 최소공배수](https://soonhankwon.github.io/til/algorithm1934)
