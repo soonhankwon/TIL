@@ -44,3 +44,8 @@
 - [백준 JAVA11 1033번 : 칵테일](https://soonhankwon.github.io/til/algorithm1033)
 - [백준 JAVA11 1934번 : 최소공배수](https://soonhankwon.github.io/til/algorithm1934)
 - [백준 JAVA11 1850번 : 최대공약수](https://soonhankwon.github.io/til/algorithm1850)
+
+## 그래프
+---
+### 위상정렬
+- [백준 JAVA11 2252번 : 줄 세우기](https://soonhankwon.github.io/til/algorithm2252)
