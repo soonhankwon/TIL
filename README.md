@@ -12,6 +12,7 @@ DEV Challenge Quest
 - [이진탐색(Binary Search)](https://soonhankwon.github.io/til/binarySearch)
 - [구간 합(Prefix Sum)](https://soonhankwon.github.io/til/prefixSum)
 - [버블정렬(Bubble sort)와 선택정렬(Selection sort)](https://soonhankwon.github.io/til/sort1)
+- [위상정렬(topology sort)](https://soonhankwon.github.io/til/topologySort)
 
 ## Ci/Cd
 - [Ci/Cd 기본개념](https://soonhankwon.github.io/til/aboutcicd-githubaction/)
