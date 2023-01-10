@@ -4,7 +4,6 @@
 - [백준 JAVA11 11047번 : 동전 0](https://soonhankwon.github.io/til/algorithm11047)
 - [백준 JAVA11 2343번 : 기타 레슨](https://soonhankwon.github.io/til/algorithm2343)
 - [백준 JAVA11 1920번 : 수 찾기](https://soonhankwon.github.io/til/algorithm1920)
-- [백준 JAVA11 1260번 : DFS와 BFS 프로그램](https://soonhankwon.github.io/til/algorithm1260)
 - [백준 JAVA11 11724번 : 연결 요소의 개수](https://soonhankwon.github.io/til/algorithm11724)
 - [백준 JAVA11 1874번 : 스택 수열](https://soonhankwon.github.io/til/algorithm1874)
 - [백준 JAVA11 12891번 : DNA 비밀번호](https://soonhankwon.github.io/til/algorithm12891)
@@ -32,6 +31,14 @@
 - [백준 JAVA11 11399번 : ATM](https://soonhankwon.github.io/til/algorithm11399)
 - [백준 JAVA11 1427번 : 소트인사이드](https://soonhankwon.github.io/til/algorithm1427)
 - [백준 JAVA11 2750번 : 수 정렬하기](https://soonhankwon.github.io/til/algorithm2750)
+## 탐색
+---
+### DFS
+- [백준 JAVA11 13023번 : ABCDE](https://soonhankwon.github.io/til/algorithm13023)
+- [백준 JAVA11 1260번 : DFS와 BFS 프로그램](https://soonhankwon.github.io/til/algorithm1260)
+
+### BFS
+
 ## 정수론
 ---
 ### 소수 구하기
