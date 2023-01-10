@@ -53,3 +53,6 @@
 
 ### 다익스트라
 - [백준 JAVA11 1916번 : 최소비용 구하기](https://soonhankwon.github.io/til/algorithm1916)
+
+### 플로이드-워셜
+- [백준 JAVA11 1389번 : 케빈 베이컨의 6단계 법칙](https://soonhankwon.github.io/til/algorithm1389)
