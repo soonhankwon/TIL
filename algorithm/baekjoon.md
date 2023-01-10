@@ -38,7 +38,7 @@
 - [백준 JAVA11 1260번 : DFS와 BFS 프로그램](https://soonhankwon.github.io/til/algorithm1260)
 
 ### BFS
-- [백준 JAVA11 2178번 : 미로 탐색](https://soonhankwon.github.io/til/algorithm13023)
+- [백준 JAVA11 2178번 : 미로 탐색](https://soonhankwon.github.io/til/algorithm2178)
 
 ## 정수론
 ---
