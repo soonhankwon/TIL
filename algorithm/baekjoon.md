@@ -64,3 +64,8 @@
 
 ### 플로이드-워셜
 - [백준 JAVA11 1389번 : 케빈 베이컨의 6단계 법칙](https://soonhankwon.github.io/til/algorithm1389)
+
+## 트리
+---
+### 트리 알아보기
+- [백준 JAVA11 11725번 : 트리의 부모 찾기](https://soonhankwon.github.io/til/algorithm11725)
