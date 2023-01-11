@@ -69,3 +69,4 @@
 ---
 ### 트리 알아보기
 - [백준 JAVA11 11725번 : 트리의 부모 찾기](https://soonhankwon.github.io/til/algorithm11725)
+- [백준 JAVA11 1068번 : 트리](https://soonhankwon.github.io/til/algorithm1068)
