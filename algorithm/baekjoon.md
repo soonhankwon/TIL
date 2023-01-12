@@ -76,3 +76,4 @@
 
 ### 세그먼트 트리
 - [백준 JAVA11 2042번 : 구간 합](https://soonhankwon.github.io/til/algorithm2042)
+- [백준 JAVA11 11505번 : 구간 곱 구하기](https://soonhankwon.github.io/til/algorithm11505)
