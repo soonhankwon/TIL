@@ -67,7 +67,7 @@
 
 ## 트리
 ---
-### 트리 알아보기
+### 트리 기본
 - [백준 JAVA11 11725번 : 트리의 부모 찾기](https://soonhankwon.github.io/til/algorithm11725)
 - [백준 JAVA11 1068번 : 트리](https://soonhankwon.github.io/til/algorithm1068)
 
@@ -77,3 +77,8 @@
 ### 세그먼트 트리
 - [백준 JAVA11 2042번 : 구간 합](https://soonhankwon.github.io/til/algorithm2042)
 - [백준 JAVA11 11505번 : 구간 곱 구하기](https://soonhankwon.github.io/til/algorithm11505)
+
+## 조합
+---
+### 조합 
+- [백준 JAVA11 11050번 : 이항 계수 1](https://soonhankwon.github.io/til/algorithm11050)
