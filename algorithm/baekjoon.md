@@ -82,3 +82,4 @@
 ---
 ### 조합 기본
 - [백준 JAVA11 11050번 : 이항 계수 1](https://soonhankwon.github.io/til/algorithm11050)
+- [백준 JAVA11 11051번 : 이항 계수 2](https://soonhankwon.github.io/til/algorithm11051)
