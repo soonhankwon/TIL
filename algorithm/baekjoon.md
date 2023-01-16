@@ -7,9 +7,6 @@
 - [백준 JAVA11 11724번 : 연결 요소의 개수](https://soonhankwon.github.io/til/algorithm11724)
 - [백준 JAVA11 1874번 : 스택 수열](https://soonhankwon.github.io/til/algorithm1874)
 - [백준 JAVA11 12891번 : DNA 비밀번호](https://soonhankwon.github.io/til/algorithm12891)
-- [백준 JAVA11 2018번 : 수들의 합 5](https://soonhankwon.github.io/til/algorithm2018)
-- [백준 JAVA11 11660번 : 구간 합 구하기 5](https://soonhankwon.github.io/til/algorithm11660)
-- [백준 JAVA11 11659번 : 구간 합 구하기 4](https://soonhankwon.github.io/til/algorithm11659)
 - [백준 JAVA11 10809번 : 알파벳 찾기](https://soonhankwon.github.io/algorithm/algorithm10809/)
 - [백준 JAVA11 11720번 : 숫자의 합](https://soonhankwon.github.io/algorithm/algorithm11720/)
 - [백준 JAVA11 11654번 : 아스키코드](https://soonhankwon.github.io/algorithm/algorithm11654/)
@@ -24,6 +21,17 @@
 - [백준 JAVA11 2563번 : 최댓값](https://soonhankwon.github.io/algorithm/algorithm2563/)
 - [백준 JAVA11 10818번 : 최소,최대](https://soonhankwon.github.io/algorithm/algorithm10818/)
 - [백준 JAVA11 10952번 : A+B](https://soonhankwon.github.io/algorithm/algorithm10952/)
+
+## 자료구조
+---
+### 구간 합
+- [백준 JAVA11 11660번 : 구간 합 구하기 5](https://soonhankwon.github.io/til/algorithm11660)
+- [백준 JAVA11 11659번 : 구간 합 구하기 4](https://soonhankwon.github.io/til/algorithm11659)
+
+### 투 포인터
+- [백준 JAVA11 1940번 : 주몽](https://soonhankwon.github.io/til/algorithm1940)
+- [백준 JAVA11 2018번 : 수들의 합 5](https://soonhankwon.github.io/til/algorithm2018)
+
 ## 정렬
 ---
 - [백준 JAVA11 10989번 : 수 정렬하기 3](https://soonhankwon.github.io/til/algorithm10989)
