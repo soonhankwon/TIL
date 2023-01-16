@@ -31,6 +31,7 @@
 ### 투 포인터
 - [백준 JAVA11 1940번 : 주몽](https://soonhankwon.github.io/til/algorithm1940)
 - [백준 JAVA11 2018번 : 수들의 합 5](https://soonhankwon.github.io/til/algorithm2018)
+- [백준 JAVA11 1253번 : 좋다](https://soonhankwon.github.io/til/algorithm1253)
 
 ## 정렬
 ---
