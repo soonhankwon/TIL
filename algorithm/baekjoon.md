@@ -6,7 +6,6 @@
 - [백준 JAVA11 1920번 : 수 찾기](https://soonhankwon.github.io/til/algorithm1920)
 - [백준 JAVA11 11724번 : 연결 요소의 개수](https://soonhankwon.github.io/til/algorithm11724)
 - [백준 JAVA11 1874번 : 스택 수열](https://soonhankwon.github.io/til/algorithm1874)
-- [백준 JAVA11 12891번 : DNA 비밀번호](https://soonhankwon.github.io/til/algorithm12891)
 - [백준 JAVA11 10809번 : 알파벳 찾기](https://soonhankwon.github.io/algorithm/algorithm10809/)
 - [백준 JAVA11 11720번 : 숫자의 합](https://soonhankwon.github.io/algorithm/algorithm11720/)
 - [백준 JAVA11 11654번 : 아스키코드](https://soonhankwon.github.io/algorithm/algorithm11654/)
@@ -32,6 +31,10 @@
 - [백준 JAVA11 1940번 : 주몽](https://soonhankwon.github.io/til/algorithm1940)
 - [백준 JAVA11 2018번 : 수들의 합 5](https://soonhankwon.github.io/til/algorithm2018)
 - [백준 JAVA11 1253번 : 좋다](https://soonhankwon.github.io/til/algorithm1253)
+
+### 슬라이딩 윈도우
+- [백준 JAVA11 12891번 : DNA 비밀번호](https://soonhankwon.github.io/til/algorithm12891)
+- [백준 JAVA11 11003번 : 최솟값 찾기](https://soonhankwon.github.io/til/algorithm11003)
 
 ## 정렬
 ---
