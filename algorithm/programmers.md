@@ -1,4 +1,4 @@
-# 프로그래머즈 알고리즘 문제 풀이
+# 프로그래머스 알고리즘 문제 풀이
 직접 풀고 테스트 케이스를 통과한 알고리즘만 작성
 ## LV.1
 --- 
@@ -6,4 +6,4 @@
 - [프로그래머스 JAVA LV1 : 2016년](https://soonhankwon.github.io/til/algorithm-p2016)
 
 ### 스택
-- [프로그래머스 LV1 : 자연수 뒤집어 배열로 만들기](https://soonhankwon.github.io/til/algorithm-reverseNumber)
+- [프로그래머스 JAVA LV1 : 자연수 뒤집어 배열로 만들기](https://soonhankwon.github.io/til/algorithm-reverseNumber)
