@@ -4,3 +4,6 @@
 --- 
 ### 구간합
 - [프로그래머스 JAVA LV1 : 2016년](https://soonhankwon.github.io/til/algorithm-p2016)
+
+### 스택
+- [프로그래머스 LV1 : 자연수 뒤집어 배열로 만들기](https://soonhankwon.github.io/til/algorithm-reverseNumber)
