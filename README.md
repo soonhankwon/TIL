@@ -3,10 +3,6 @@
 - 보완할 내용들은 추가적으로 학습 후 수정 및 보완
 - 순서는 알파벳순
 ---
-DEV Challenge Quest
-
-- https://soonhankwon.github.io/til/devChallengeQuest/
-
 ## Algorithm
 - [백준(baekjoon) 알고리즘 문제 풀이](https://github.com/soonhankwon/TIL/blob/main/algorithm/baekjoon.md)
 - [프로그래머스(Programmers) 알고리즘 문제 풀이](https://github.com/soonhankwon/TIL/blob/main/algorithm/programmers.md)
