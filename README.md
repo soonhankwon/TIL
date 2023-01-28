@@ -56,6 +56,7 @@
 - [1주차 JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://soonhankwon.github.io/til/whiteship-livestudy-w1/)
 - [2주차 자바 데이터 타입, 변수 그리고 배열](https://soonhankwon.github.io/til/whiteship-livestudy-w2/)
 - [3주차 연산자](https://soonhankwon.github.io/til/whiteship-livestudy-w3/)
+- [4주차 연산자](https://soonhankwon.github.io/til/whiteship-livestudy-w4/)
 
 ## Network
 - [Protocol & OSI 7 Layer](https://soonhankwon.github.io/til/protocol-osi7layer)
