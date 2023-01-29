@@ -25,7 +25,7 @@
 ---
 ### 해쉬맵
 - [백준 JAVA11 9375번 : 패션왕 신해빈](https://soonhankwon.github.io/til/algorithm9375)
-- 
+
 ### 구간 합
 - [백준 JAVA11 11660번 : 구간 합 구하기 5](https://soonhankwon.github.io/til/algorithm11660)
 - [백준 JAVA11 11659번 : 구간 합 구하기 4](https://soonhankwon.github.io/til/algorithm11659)
