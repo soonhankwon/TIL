@@ -20,9 +20,12 @@
 - [백준 JAVA11 2563번 : 최댓값](https://soonhankwon.github.io/algorithm/algorithm2563/)
 - [백준 JAVA11 10818번 : 최소,최대](https://soonhankwon.github.io/algorithm/algorithm10818/)
 - [백준 JAVA11 10952번 : A+B](https://soonhankwon.github.io/algorithm/algorithm10952/)
-
+- 
 ## 자료구조
 ---
+### 해쉬맵
+- [백준 JAVA11 9375번 : 패션왕 신해빈](https://soonhankwon.github.io/til/algorithm9375)
+- 
 ### 구간 합
 - [백준 JAVA11 11660번 : 구간 합 구하기 5](https://soonhankwon.github.io/til/algorithm11660)
 - [백준 JAVA11 11659번 : 구간 합 구하기 4](https://soonhankwon.github.io/til/algorithm11659)
