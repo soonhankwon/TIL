@@ -26,6 +26,7 @@
 - [백준 JAVA11 9375번 : 패션왕 신해빈](https://soonhankwon.github.io/til/algorithm9375)
 - [백준 JAVA11 1620번 : 나는야 포켓몬 마스터 이다솜](https://soonhankwon.github.io/til/algorithm1620)
 - [백준 JAVA11 1764번 : 듣보잡](https://soonhankwon.github.io/til/algorithm1764)
+- [백준 JAVA11 10816번 : 숫자 카드 2](https://soonhankwon.github.io/til/algorithm10816)
 
 ### 구간 합
 - [백준 JAVA11 11660번 : 구간 합 구하기 5](https://soonhankwon.github.io/til/algorithm11660)
