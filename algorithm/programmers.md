@@ -11,7 +11,7 @@
 ## LV.2
 ---
 ### 맵
-- [프로그래머스 JAVA LV2 : 주차 요금 계산](https://soonhankwon.github.io/til/parkingfee)
+- [프로그래머스 JAVA LV2 : 주차 요금 계산](https://soonhankwon.github.io/til/algorithm-parkingfee)
 
 ### 정수론
 - [프로그래머스 JAVA LV2 : k진수에서 소수 개수 구하기](https://soonhankwon.github.io/til/algorithm-kNumber)
