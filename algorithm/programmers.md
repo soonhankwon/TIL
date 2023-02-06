@@ -2,6 +2,9 @@
 직접 풀고 테스트 케이스를 통과한 알고리즘만 작성
 ## LV.1
 --- 
+### 맵
+- [프로그래머스 JAVA LV1 : 개인정보 수집 유효기간](https://soonhankwon.github.io/til/algorithm-privacies)
+
 ### 구간합
 - [프로그래머스 JAVA LV1 : 2016년](https://soonhankwon.github.io/til/algorithm-p2016)
 
