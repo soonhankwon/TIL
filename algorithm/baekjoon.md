@@ -27,6 +27,9 @@
 - [백준 JAVA11 1764번 : 듣보잡](https://soonhankwon.github.io/til/algorithm1764)
 - [백준 JAVA11 10816번 : 숫자 카드 2](https://soonhankwon.github.io/til/algorithm10816)
 
+### 해쉬셋
+- [백준 JAVA11 11478번 : 서로 다른 부분 문자열의 개수](https://soonhankwon.github.io/til/algorithm11478)
+
 ### 구간 합
 - [백준 JAVA11 11660번 : 구간 합 구하기 5](https://soonhankwon.github.io/til/algorithm11660)
 - [백준 JAVA11 11659번 : 구간 합 구하기 4](https://soonhankwon.github.io/til/algorithm11659)
