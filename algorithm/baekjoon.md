@@ -1,6 +1,5 @@
 # 백준 알고리즘 문제 풀이
 직접 풀고 테스트 케이스를 통과한 알고리즘만 작성
-- [백준 JAVA11 1541번 : 잃어버린 괄호](https://soonhankwon.github.io/til/algorithm1541)
 - [백준 JAVA11 11047번 : 동전 0](https://soonhankwon.github.io/til/algorithm11047)
 - [백준 JAVA11 2343번 : 기타 레슨](https://soonhankwon.github.io/til/algorithm2343)
 - [백준 JAVA11 1920번 : 수 찾기](https://soonhankwon.github.io/til/algorithm1920)
@@ -63,6 +62,10 @@
 
 ### BFS
 - [백준 JAVA11 2178번 : 미로 탐색](https://soonhankwon.github.io/til/algorithm2178)
+
+## 그리디
+---
+- [백준 JAVA11 1541번 : 잃어버린 괄호](https://soonhankwon.github.io/til/algorithm1541)
 
 ## 정수론
 ---
