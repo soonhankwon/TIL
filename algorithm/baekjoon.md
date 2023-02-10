@@ -2,7 +2,6 @@
 직접 풀고 테스트 케이스를 통과한 알고리즘만 작성
 - [백준 JAVA11 2343번 : 기타 레슨](https://soonhankwon.github.io/til/algorithm2343)
 - [백준 JAVA11 1920번 : 수 찾기](https://soonhankwon.github.io/til/algorithm1920)
-- [백준 JAVA11 11724번 : 연결 요소의 개수](https://soonhankwon.github.io/til/algorithm11724)
 - [백준 JAVA11 10809번 : 알파벳 찾기](https://soonhankwon.github.io/algorithm/algorithm10809/)
 - [백준 JAVA11 11720번 : 숫자의 합](https://soonhankwon.github.io/algorithm/algorithm11720/)
 - [백준 JAVA11 11654번 : 아스키코드](https://soonhankwon.github.io/algorithm/algorithm11654/)
@@ -58,6 +57,7 @@
 - [백준 JAVA11 13023번 : ABCDE](https://soonhankwon.github.io/til/algorithm13023)
 - [백준 JAVA11 1260번 : DFS와 BFS 프로그램](https://soonhankwon.github.io/til/algorithm1260)
 - [백준 JAVA11 2606번 : 바이러스](https://soonhankwon.github.io/til/algorithm2606)
+- [백준 JAVA11 11724번 : 연결 요소의 개수](https://soonhankwon.github.io/til/algorithm11724)
 
 ### BFS
 - [백준 JAVA11 2178번 : 미로 탐색](https://soonhankwon.github.io/til/algorithm2178)
