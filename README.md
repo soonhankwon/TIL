@@ -43,7 +43,6 @@
 - [그래프(Graph)와 트리(Tree)](https://soonhankwon.github.io/til/graph-and-tree)
 
 ## Design Pattern
-- [MVC Pattern](https://soonhankwon.github.io/til/mvc-pattern)
 
 ## Java
 - [추상 클래스를 상속받았을때 부모클래스의 추상메서드는 꼭 구현해줘야하나?](https://soonhankwon.github.io/til/aboutAbstract)
@@ -74,6 +73,7 @@
 
 ## Spring
 - [FetchType](https://soonhankwon.github.io/til/about-fetchtype/)
+- [MVC Pattern](https://soonhankwon.github.io/til/mvc-pattern)
 - [SpringFramework](https://soonhankwon.github.io/til/aboutspring-framework/)
 - [스프링 빈(Bean)에 대해서 1-1](https://soonhankwon.github.io/til/aboutspring-bean)
 - [DI(Dependency Injection)](https://soonhankwon.github.io/til/di)
