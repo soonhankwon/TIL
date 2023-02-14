@@ -53,6 +53,9 @@
 - [백준 JAVA11 2750번 : 수 정렬하기](https://soonhankwon.github.io/til/algorithm2750)
 ## 탐색
 ---
+### BruteForce
+- [백준 JAVA11 2798번 : 블랙잭](https://soonhankwon.github.io/til/algorithm2798)
+
 ### DFS
 - [백준 JAVA11 13023번 : ABCDE](https://soonhankwon.github.io/til/algorithm13023)
 - [백준 JAVA11 1260번 : DFS와 BFS 프로그램](https://soonhankwon.github.io/til/algorithm1260)
