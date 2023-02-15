@@ -45,7 +45,7 @@
 ## Design Pattern
 
 ## Java
-- [자바9 에서 인터페이스에 왜 static method에 private을 추가했을까?](https://soonhankwon.github.io/til/aboutinterface-method)
+- [자바9의 인터페이스에서 왜 static method 에 private을 추가했을까?](https://soonhankwon.github.io/til/aboutinterface-method)
 - [추상 클래스를 상속받았을때 부모클래스의 추상메서드는 꼭 구현해줘야하나?](https://soonhankwon.github.io/til/aboutAbstract)
 - [String은 래퍼클래스인데 == 비교시 값 같게 나오는 이유?](https://soonhankwon.github.io/til/aboutstring-1/)
 - [다중 자료형 리스트의 특정 인덱스요소 일괄 수정](https://soonhankwon.github.io/til/aboutlistandset/)
