@@ -54,6 +54,7 @@
 ## 탐색
 ---
 ### BruteForce
+- [백준 JAVA11 1436번 : 영화감독 숌](https://soonhankwon.github.io/til/algorithm1436)
 - [백준 JAVA11 7568번 : 덩치](https://soonhankwon.github.io/til/algorithm7568)
 - [백준 JAVA11 2798번 : 블랙잭](https://soonhankwon.github.io/til/algorithm2798)
 
