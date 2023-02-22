@@ -45,6 +45,7 @@
 ## Design Pattern
 
 ## Java
+- [Object 와 제네릭을 사용하는 것의 차이점?](https://soonhankwon.github.io/til/genericsAndObject)
 - [자바에서 열거형(Enum)에 필드를 가지게 하는 이유는?](https://soonhankwon.github.io/til/aboutEnum1)
 - [ANIT 패턴과 try-catch-finally가 관계가 있어?](https://soonhankwon.github.io/til/aboutTryCatchFinally)
 - [자바9의 인터페이스에서 왜 static method 에 private을 추가했을까?](https://soonhankwon.github.io/til/aboutinterface-method)
