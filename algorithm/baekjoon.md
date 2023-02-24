@@ -44,6 +44,9 @@
 - [백준 JAVA11 17298번 : 오큰수](https://soonhankwon.github.io/til/algorithm17298)
 - [백준 JAVA11 1874번 : 스택 수열](https://soonhankwon.github.io/til/algorithm1874)
 
+### 큐
+- [백준 JAVA11 2164번 : 카드2](https://github.com/soonhankwon/algorithmSolution/blob/main/%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2/%EC%B9%B4%EB%93%9C2.java)
+
 ## 정렬
 ---
 - [백준 JAVA11 10989번 : 수 정렬하기 3](https://soonhankwon.github.io/til/algorithm10989)
