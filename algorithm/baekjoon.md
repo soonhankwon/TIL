@@ -84,6 +84,7 @@
 
 ## 그리디
 ---
+- [백준 JAVA11 1931번 : 회의실 배정](https://github.com/soonhankwon/algorithmSolution/blob/main/%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95.java)
 - [백준 JAVA11 1541번 : 잃어버린 괄호](https://soonhankwon.github.io/til/algorithm1541)
 - [백준 JAVA11 11047번 : 동전 0](https://soonhankwon.github.io/til/algorithm11047)
 
