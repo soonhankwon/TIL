@@ -47,6 +47,7 @@
 
 ### 큐
 - [백준 JAVA11 2164번 : 카드2](https://github.com/soonhankwon/algorithmSolution/blob/main/%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2/%EC%B9%B4%EB%93%9C2.java)
+- [백준 JAVA11 11866번 : 요세푸스 문제 0](https://github.com/soonhankwon/algorithmSolution/blob/main/%EB%B0%B1%EC%A4%80/Silver/11866.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%850/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%850.java)
 
 ## 정렬
 ---
