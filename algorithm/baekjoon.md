@@ -28,6 +28,7 @@
 - [백준 JAVA11 11478번 : 서로 다른 부분 문자열의 개수](https://soonhankwon.github.io/til/algorithm11478)
 
 ### 구간 합
+- [백준 JAVA11 2599번 : 수열](https://github.com/soonhankwon/algorithmSolution/blob/main/%EB%B0%B1%EC%A4%80/Silver/2559.%E2%80%85%EC%88%98%EC%97%B4/%EC%88%98%EC%97%B4.java)
 - [백준 JAVA11 11660번 : 구간 합 구하기 5](https://soonhankwon.github.io/til/algorithm11660)
 - [백준 JAVA11 11659번 : 구간 합 구하기 4](https://soonhankwon.github.io/til/algorithm11659)
 
