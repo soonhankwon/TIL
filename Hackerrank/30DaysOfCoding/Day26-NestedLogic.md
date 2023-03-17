@@ -68,16 +68,17 @@ class Fine {
 	}
 
 	private int calculateFine(Record record) {
-		if (isDelayed(record)) {
-			if (isYearSame(record)) {
-				if (isMonthSame(record)) {
-					fine = 15 * (getDaysLate(record));
-				} else {
-					fine = 500 * (getMonthsLate(record));
-				}
-			} else {
-				fine = 10000;
-			}
+		if (!isDelayed(record)) {
+			return fine;
+		}
+		if (!isYearSame(record)) {
+			return fine = 10000;
+		}
+		if (isMonthSame(record)) {
+			return fine = 15 * (getDaysLate(record));
+		} 
+		if(!isMonthSame(record)) {
+			return fine = 500 * (getMonthsLate(record));
 		}
 		return fine;
 	}
