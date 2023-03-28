@@ -17,7 +17,7 @@
 ## Computer Science
 - [Base64 Encoding](https://soonhankwon.github.io/til/base64)
 - [프로세스(Process)와 스레드(Thread)](https://soonhankwon.github.io/til/thread-process)
-- [Synchronous(동기) vs Asynchronous(비동기)](https://soonhankwon.github.io/til/sync-vs-async)
+- [Synchronous(동기) vs Asynchronous(비동기) & Blocking vs Non-Blocking](https://soonhankwon.github.io/til/sync-vs-async)
 - [동시성(Concurrency) vs 병렬성(Parallelism)](https://soonhankwon.github.io/til/concurrent-parallel)
 
 ## Cryptography
