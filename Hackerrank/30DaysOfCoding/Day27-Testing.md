@@ -31,6 +31,7 @@ public class Solution {
         }
         return min_idx;
     }
+    
 static class TestDataEmptyArray {
     public static int[] get_array() {
         return new int[0];
