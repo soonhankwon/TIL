@@ -13,6 +13,7 @@
 
 ## Ci/Cd
 - [Ci/Cd 기본개념](https://soonhankwon.github.io/til/aboutcicd-githubaction/)
+- [Github Actions + Docker + EC2 (nohup, port-forwarding) 배포자동화](https://soonhankwon.github.io/til/github-actions/)
 
 ## Computer Science
 - [Base64 Encoding](https://soonhankwon.github.io/til/base64)
