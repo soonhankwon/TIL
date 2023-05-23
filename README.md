@@ -74,6 +74,7 @@
 - [TCP(Transmission Control Protocol) vs UDP(User Datagram Protocol)](https://soonhankwon.github.io/til/tcp-vs-udp)
 
 ## Jpa
+- [JPA 에서 final 클래스, enum, interface, inner 클래스를 엔티티 클래스로 사용할 수 없는 이유?](https://soonhankwon.github.io/jpa/jpaEntityNotAllowed/)
 - [JPA(Java Persistence API)](https://soonhankwon.github.io/til/jpa)
 - [더티체킹(Dirty Checking)이란?](https://soonhankwon.github.io/til/dirtychecking)
 
