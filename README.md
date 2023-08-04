@@ -87,7 +87,7 @@
 - [SpringFramework](https://soonhankwon.github.io/til/aboutspring-framework/)
 - [스프링 빈(Bean)에 대해서 1-1](https://soonhankwon.github.io/til/aboutspring-bean)
 - [DI(Dependency Injection)](https://soonhankwon.github.io/til/di)
-- [EventListener vs TransactionalEventListener(feat.ApplicationEventPublisher)]([https://soonhankwon.github.io/til/di](https://velog.io/@soonable/Spring-EventListener-vs-TransactionalEventListenerfeat.ApplicationEventPublisher))
+- [EventListener vs TransactionalEventListener(feat.ApplicationEventPublisher)](https://velog.io/@soonable/Spring-EventListener-vs-TransactionalEventListenerfeat.ApplicationEventPublisher)
 
 ## Web
 - [CORS(Cross-Origin Resource Sharing)](https://soonhankwon.github.io/til/cors/)
